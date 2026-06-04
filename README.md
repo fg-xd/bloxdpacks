@@ -20,7 +20,7 @@ Install bloxdpacks binary from [releases](https://github.com/fg-xd/bloxdpacks/re
 Move it to /usr/local/bin and add execution rights (`chmod +x bloxdpacks`)
 ### Quick Install Command
 ```bash
-cp ~/Downloads/bloxdpacks /usr/local/bin/bloxdpacks
+mv ~/Downloads/[linux-or-mac]-bloxdpacks /usr/local/bin/bloxdpacks
 chmod +x /usr/local/bin/bloxdpacks
 ```
 
