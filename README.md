@@ -19,9 +19,8 @@ bloxdpacks --version
 Install bloxdpacks binary from [releases](https://github.com/fg-xd/bloxdpacks/releases)
 Move it to /usr/local/bin and add execution rights (`chmod +x bloxdpacks`)
 ### Quick Install Command
-First you have the unzip the linux or mac .zip
 ```bash
-cp ~/Downloads/[OS:linux-or-mac]/bloxdpacks /usr/local/bin/bloxdpacks
+cp ~/Downloads/bloxdpacks /usr/local/bin/bloxdpacks
 chmod +x /usr/local/bin/bloxdpacks
 ```
 
